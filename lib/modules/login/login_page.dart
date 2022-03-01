@@ -4,7 +4,7 @@ import 'package:flutter_payflow/modules/login/login_controller.dart';
 import '../../shared/themes/app_colors.dart';
 import '../../shared/themes/app_images.dart';
 import '../../shared/themes/app_text_styles.dart';
-import '../widgets/social_login/social_login_button.dart';
+import '../../shared/widgets/social_login/social_login_button.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({Key? key}) : super(key: key);
