@@ -61,7 +61,7 @@ class _LoginPageState extends State<LoginPage> {
                     child: SocialLoginButton(
                     // onTap: controller.googleSignIn,
                     onTap: (){
-                      controller.googleSignIn();
+                      controller.googleSignIn(context);
                     }),
                     ),
                 ],
