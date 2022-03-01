@@ -13,8 +13,11 @@
 
 * Interessante
     * whimsical.com
+    * cd android -> gradlew signingReport
+    * Notion
 
 * link:: https://app.rocketseat.com.br/node/mission-flutter/group/nlw-together-flutter/lesson/aula-02-maximum-speed-3
 
 ### pubspec.yaml
 * google_fonts: ^2.1.0
+* firebase_core: ^1.3.0
